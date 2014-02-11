@@ -1,0 +1,1 @@
+﻿var currentUser = {network: "perryma", firstname: "Mark", lastname: "Perry"}
